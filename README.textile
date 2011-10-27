@@ -1,3 +1,9 @@
+h3. Fork info
+
+This is a fork of PeasyCam by Jonathan Feinberg. It's been modified by David Pelaez to be used as a 2d viewport manager. Math and geometry classes have been removed. That means that the presence of peasy is still required to provide those two packages. Peasy has been renamed to peasy2d as a package to be able to use both according to the needs of the current visualization on screen.
+
+h3. Original readme
+
 PeasyCam provides a dead-simple mouse-driven camera for Processing. It is created and maintained by "Jonathan Feinberg":http://mrfeinberg.com/. It is free for all uses, per the Apache 2.0 license.
 
 To download the distribution, and to see a demo, go to "the PeasyCam home page":http://mrfeinberg.com/peasycam/.
